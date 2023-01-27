@@ -30,7 +30,7 @@
     "get-uv-event-loop-napi-h": "^1.0.5",
     "node-addon-api": "^3.0.0",
     "node-gyp-build": "^4.2.1",
-    "@inigolabs/ref-napi": "4.0.7",
+    "@inigolabs/ref-napi": "git+https://claudia-stefan-8x8@github.com/claudia-stefan-8x8/ref-napi.git#electron-22-fix",
     "ref-struct-di": "^1.1.0"
   },
   "devDependencies": {
